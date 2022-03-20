@@ -1162,6 +1162,7 @@ ${tampilUcapan}
 ✾ ${prefix}setppgrup *reply image*
 ✾ ${prefix}setnamegrup *text*
 ✾ ${prefix}setdesc *text*
+✾ ${prefix}antilink *on/off*
 
 👤 _*Owner Menu*_ 👤
 ✾ ${prefix}mode
